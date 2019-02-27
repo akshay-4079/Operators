@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsEasy", "OperatorsEasy\OperatorsEasy.csproj", "{501A5CAE-8529-4A3B-B165-FA57A935D919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsMedium", "OperatorsMedium\OperatorsMedium.csproj", "{C53B0854-45BF-4F00-BC05-3C7D8872E941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationsHArd", "OperationsHArd\OperationsHArd.csproj", "{48FF50B9-89E1-433A-9540-57965B338E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501A5CAE-8529-4A3B-B165-FA57A935D919}.Debug|x86.ActiveCfg = Debug|x86
+		{501A5CAE-8529-4A3B-B165-FA57A935D919}.Debug|x86.Build.0 = Debug|x86
+		{501A5CAE-8529-4A3B-B165-FA57A935D919}.Release|x86.ActiveCfg = Release|x86
+		{501A5CAE-8529-4A3B-B165-FA57A935D919}.Release|x86.Build.0 = Release|x86
+		{C53B0854-45BF-4F00-BC05-3C7D8872E941}.Debug|x86.ActiveCfg = Debug|x86
+		{C53B0854-45BF-4F00-BC05-3C7D8872E941}.Debug|x86.Build.0 = Debug|x86
+		{C53B0854-45BF-4F00-BC05-3C7D8872E941}.Release|x86.ActiveCfg = Release|x86
+		{C53B0854-45BF-4F00-BC05-3C7D8872E941}.Release|x86.Build.0 = Release|x86
+		{48FF50B9-89E1-433A-9540-57965B338E2E}.Debug|x86.ActiveCfg = Debug|x86
+		{48FF50B9-89E1-433A-9540-57965B338E2E}.Debug|x86.Build.0 = Debug|x86
+		{48FF50B9-89E1-433A-9540-57965B338E2E}.Release|x86.ActiveCfg = Release|x86
+		{48FF50B9-89E1-433A-9540-57965B338E2E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
